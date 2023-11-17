@@ -8,6 +8,7 @@ License:	BSD
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	pkgconfig(libxxhash)
+BuildRequires:	pkgconfig(python3)
 
 %description
 Python binding for xxHash
