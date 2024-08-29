@@ -1,5 +1,5 @@
 Name:		python-xxhash
-Version:	3.4.1
+Version:	3.5.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/x/xxhash/xxhash-%{version}.tar.gz
 Summary:	Python binding for xxHash
