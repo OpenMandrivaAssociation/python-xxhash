@@ -1,7 +1,7 @@
 %define module xxhash
 
 Name:		python-xxhash
-Version:	3.7.0
+Version:	3.8.1
 Release:	1
 Summary:	Python binding for xxHash
 License:	BSD
