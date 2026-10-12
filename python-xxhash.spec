@@ -2,7 +2,7 @@
 
 Name:		python-xxhash
 Version:	3.8.1
-Release:	1
+Release:	2
 Summary:	Python binding for xxHash
 License:	BSD
 Group:		Development/Python
